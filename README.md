@@ -1,2 +1,2 @@
 # Build-responsive-card
-![alt text]([https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-twotoone-iqgXsVkLPXWX.png](https://photos.app.goo.gl/JqkmPgdKr3qhqf3B7))
+![alt text]([https://github.com/nandhagopalperumal/Build-responsive-card/blob/main/img/Responsive-card1.png])
